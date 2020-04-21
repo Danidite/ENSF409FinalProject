@@ -1,4 +1,5 @@
 # ENSF409FinalProject
+
 Names: Hashir Ahmed (hashir.ahmed1@ucalgary.ca) and Pin Long (pin.long@ucalgary.ca)
 
 Instuctions to run the program:
@@ -16,4 +17,5 @@ Some of the bunus features included is a login page, which has two logins:
 Username: admin, password:1234 and username: user, password: password. If you choose admin
 you will have the ability to add new users to the program.
 
-In short our project has an admin capability and a login capability.
+In short our project has an admin capability and a login capability, it also has the capability 
+to host more than one client, where that actions will affect the other clients experience.
